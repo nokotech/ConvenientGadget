@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto;
+  margin: 0 auto -30px;
+  padding: 0 0 30px;
+}
+
+footer {
+  height: 30px;
+  width: 100%;
+  background-color: rgb(32, 32, 32);
+  opacity: 0.5;
+  overflow: hidden;
+  .container {
+    text-align: center;
+    line-height: 28px;
+    color: #DDD;
+  }
+}
