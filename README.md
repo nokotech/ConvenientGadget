@@ -21,11 +21,14 @@ This ConvenientGadget is mac and windows gadget.
 * install module  
 `npm install`
 
+* compile  
+`npm start`
+
 ### 2.2 output
 * mac  
 `electron-packager . build/appName --platform=darwin --arch=x64 --overwrite --electron-version=1.4.15`
 * windows  
-`electron-packager . build/appName --platform=win32 --arch=x64 --overwrite --electron-version=1.4.15`
+`electron-packager . build/appName --platform=win32 --arch=x64 --overwrite --electron-version=1.4.15`
 
 
 <p align="center">
