@@ -3,7 +3,7 @@
 </div>
   <p align="center">
     <a href="">
-      <img alt="logo" width="200" src="env/logo.png">
+      <img alt="logo" width="400" src="env/demo.png">
     </a>
     <h3 align="center">ConvenientGadget</h3>
   </p>
